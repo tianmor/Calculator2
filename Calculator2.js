@@ -14,8 +14,9 @@ function divide(a,b){
     return a/b
 }
 
-git checkout -b feature/square
-
+function square(a){
+    return a*a
+}
 
 let a = 5
 let b = 3
