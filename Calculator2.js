@@ -14,6 +14,9 @@ function divide(a,b){
     return a/b
 }
 
+git checkout -b feature/square
+
+
 let a = 5
 let b = 3
 console.log("ADD:", add(a, b))
